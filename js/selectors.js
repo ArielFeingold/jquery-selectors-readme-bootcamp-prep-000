@@ -1,4 +1,5 @@
 // declare your functions here...
 function paragraphSelector(){
-  $(`p`)
+  cosnt par = $(`p`)
+  return par
 }
